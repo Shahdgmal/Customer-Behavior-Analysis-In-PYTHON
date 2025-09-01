@@ -42,4 +42,4 @@
 
 
 ## Python Code
-- < a href="https://github.com/Shahdgmal/Customer-Behavior-Analysis-In-PYTHON/blob/main/Customer_Behavior_Analysis%20-%20Colab.pdf">Colab NoteBook</a>
+- <a href="https://github.com/Shahdgmal/Customer-Behavior-Analysis-In-PYTHON/blob/main/Customer_Behavior_Analysis%20-%20Colab.pdf">Colab NoteBook</a>
